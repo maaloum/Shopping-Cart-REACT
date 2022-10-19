@@ -1,0 +1,12 @@
+.link{
+
+  color: rgb(220, 158, 158) !important;
+  text-decoration: none;
+
+}
+.link:hover{
+  list-style: none;
+  color: rgb(220, 158, 158);
+  text-decoration: none;
+}
+
